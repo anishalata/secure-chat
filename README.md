@@ -37,3 +37,4 @@ Contributions are welcome! If you find any bugs or issues with the application, 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
